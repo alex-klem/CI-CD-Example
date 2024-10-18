@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ci_cd_local.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\ci_cd_local.dir/objects.a @CMakeFiles\ci_cd_local.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ci_cd_local.dir/objects.a -Wl,--no-whole-archive -o ci_cd_local.exe -Wl,--out-implib,libci_cd_local.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ci_cd_local.dir\linkLibs.rsp

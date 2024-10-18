@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Projects/ci_cd_local/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\ci_cd_local.dir\\main.cpp.obj -c C:\\Users\\Projects\\ci_cd_local\\main.cpp",
+  "file": "C:/Users/Projects/ci_cd_local/main.cpp",
+  "output": "CMakeFiles/ci_cd_local.dir/main.cpp.obj"
+}
+]

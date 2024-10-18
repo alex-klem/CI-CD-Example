@@ -1,0 +1,3 @@
+C:/Users/Projects/ci_cd_local/build/CMakeFiles/ci_cd_local.dir
+C:/Users/Projects/ci_cd_local/build/CMakeFiles/edit_cache.dir
+C:/Users/Projects/ci_cd_local/build/CMakeFiles/rebuild_cache.dir
